@@ -55,7 +55,3 @@ cd Keyroo
 
 #run
 python Keyroo.py
-
-ل
-لر
-لل
