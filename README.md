@@ -48,7 +48,14 @@ Use `git clone` to download the entire repository to your local machine:
 
 ```bash
 # Clone the repository (Replace [YOUR_USERNAME] with your actual GitHub username)
-git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/Keyroo-v5.1.git
+git clone https://github.com/exx888/Keyroo.git
 
 # Navigate into the tool directory
-cd Keyroo-v5.1
+cd Keyroo
+
+#run
+python Keyroo.py
+
+ل
+لر
+لل
