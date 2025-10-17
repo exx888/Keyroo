@@ -30,4 +30,4 @@ Ensure you have **Python 3.x** and the required dependencies installed.
 
 ```bash
 # Install the core dependencies: cryptography, psutil, and pyinstaller
-pip install pyinstaller cryptography psutil
+pip install -r requirements.txt
